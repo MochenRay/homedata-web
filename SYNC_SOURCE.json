@@ -5,8 +5,8 @@
   "source_repo_path": "/Users/rayli/Desktop/临港家庭数仓 ",
   "source_remote": "https://github.com/MochenRay/lingang-family-warehouse.git",
   "source_branch": "main",
-  "source_commit_sha": "ca417a5b94f3d43cd725caa35595badc793c09c8",
+  "source_commit_sha": "2abb30dc894ee1427b7dc71b748c61aedd801a50",
   "source_dirty": false,
-  "synced_at_utc": "2026-04-23T12:41:38Z",
+  "synced_at_utc": "2026-04-23T13:29:09Z",
   "sync_mode": "truth-to-projection-whitelist"
 }
